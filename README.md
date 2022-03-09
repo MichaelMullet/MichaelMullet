@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @MichaelMullet\.
-- 👀 I’m focused on making a career shift into tech.
-- 🌱 I’m taking a deep dive into the world of web development with HTML, CSS, and JavaScript.
+- 👀 I'm a self-taught web developer, currently employed at LaGwana.
+- 🌱 You can usually find me working on developing and maintaining websites for local businesses.
 - 📫 You can reach me at 
-[my Twitter](https://twitter.com/michaelrmullet) or
-[my LinkedIn](https://www.linkedin.com/in/michael-mullet-01a173209).
+[my LinkedIn](https://www.linkedin.com/in/michael-mullet-01a173209), or call my work phone number at 260-768-7878 x1037!
 
 <!---
 MichaelMullet/MichaelMullet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
